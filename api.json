@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Comprar víveres",
+    "description": "Leche, pan, huevos, frutas y verduras.",
+    "isCompleted": false,
+    "dueDate": "2025-06-01T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Preparar presentación",
+    "description": "Revisar diapositivas y practicar el discurso.",
+    "isCompleted": true,
+    "dueDate": "2025-05-28T14:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Llamar al médico",
+    "description": "Pedir cita para chequeo anual.",
+    "isCompleted": false,
+    "dueDate": "2025-06-05T09:00:00Z"
+  }
+]
