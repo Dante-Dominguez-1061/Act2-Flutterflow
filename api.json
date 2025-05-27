@@ -1,22 +1,22 @@
 [
   {
     "id": "1",
-    "title": "Comprar víveres",
-    "description": "Leche, pan, huevos, frutas y verduras.",
+    "title": "Super Mario Oddysey",
+    "description": "Vive la nueva aventura de Mario",
     "isCompleted": false,
     "dueDate": "2025-06-01T10:00:00Z"
   },
   {
     "id": "2",
-    "title": "Preparar presentación",
-    "description": "Revisar diapositivas y practicar el discurso.",
+    "title": "The Legend of Zelda",
+    "description": "Recupera la trifuerza del malvado Ganon",
     "isCompleted": true,
     "dueDate": "2025-05-28T14:30:00Z"
   },
   {
     "id": "3",
-    "title": "Llamar al médico",
-    "description": "Pedir cita para chequeo anual.",
+    "title": "Kirby's Dream Land",
+    "description": "La primera aventura de Kirby",
     "isCompleted": false,
     "dueDate": "2025-06-05T09:00:00Z"
   }
