@@ -1,25 +1,19 @@
 {
   "items":[
     {
-      "id": "1",
+      "title": "Super Mario Galaxy",
+      "description": "Explora la galaxia junto a Mario",
+      "thumbnail": "https://raw.githubusercontent.com/Dante-Dominguez-1061/Videojuegos_imagenes_app_flutter/refs/heads/main/juego5.jpg"
+    },
+    {
+      "title": "Destiny",
+      "description": "Explora un nuevo mundo inmenso",
+      "thumbnail": "https://raw.githubusercontent.com/Dante-Dominguez-1061/Videojuegos_imagenes_app_flutter/refs/heads/main/juego6.jpg"
+    },
+    {
       "title": "Super Mario Oddysey",
       "description": "Vive la nueva aventura de Mario",
-      "isCompleted": false,
-      "dueDate": "2025-06-01T10:00:00Z"
-    },
-    {
-      "id": "2",
-      "title": "The Legend of Zelda",
-      "description": "Recupera la trifuerza del malvado Ganon",
-      "isCompleted": true,
-      "dueDate": "2025-05-28T14:30:00Z"
-    },
-    {
-      "id": "3",
-      "title": "Kirby's Dream Land",
-      "description": "La primera aventura de Kirby",
-      "isCompleted": false,
-      "dueDate": "2025-06-05T09:00:00Z"
+      "thumbnail": "https://raw.githubusercontent.com/Dante-Dominguez-1061/Videojuegos_imagenes_app_flutter/refs/heads/main/juego7.jpeg"
     }
   ]
 }
